@@ -1,0 +1,24 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  links:
+    - url: https://github.com/AutoScout24/cdk-v2-progress-dashboard
+      type: documentation
+  name: the-third
+  description: Another service
+  tags:
+    - third
+    - three
+  availability: false
+  confidentiality: public
+  integrity: false
+  exposure:
+    - non-applicable
+  platform: aws
+spec:
+  owner: as24-cloud-developer-experience
+  lifecycle: experimental
+  type: service
+  system: cdk-v2-progress-dashboard
+  providesApis: []
