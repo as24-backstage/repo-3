@@ -9,6 +9,7 @@ metadata:
   description: Another service
   tags:
     - third
+    - another
   availability: false
   confidentiality: public
   integrity: false
