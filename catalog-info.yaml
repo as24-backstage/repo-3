@@ -9,6 +9,7 @@ metadata:
   description: Another service
   tags:
     - cleanup
+    - two
   availability: false
   confidentiality: public
   integrity: false
