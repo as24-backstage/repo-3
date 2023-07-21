@@ -9,8 +9,6 @@ metadata:
   description: Another service
   tags:
     - third
-    - three
-    - test
   availability: false
   confidentiality: public
   integrity: false
