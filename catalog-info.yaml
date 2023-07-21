@@ -10,6 +10,7 @@ metadata:
   tags:
     - third
     - another
+    - third2
   availability: false
   confidentiality: public
   integrity: false
