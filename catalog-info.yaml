@@ -8,9 +8,7 @@ metadata:
   name: the-third
   description: Another service
   tags:
-    - third
-    - another
-    - third2
+    - cleanup
   availability: false
   confidentiality: public
   integrity: false
