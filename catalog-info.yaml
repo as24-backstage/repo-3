@@ -10,6 +10,7 @@ metadata:
   tags:
     - cleanup
     - two
+    - actions-test
   availability: false
   confidentiality: public
   integrity: false
